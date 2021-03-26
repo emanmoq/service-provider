@@ -619,7 +619,13 @@ color:#272B4B
     line-height: 42px;;
 }
 .modal{
-    z-index:9999999999999999
+    z-index:9999999999999999;
+
+}
+.modal-content{
+    background-image: url(../images/modal.png);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .modal-body{
     padding:50px 100px;
