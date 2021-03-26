@@ -1,0 +1,5 @@
+<svg id="rr" xmlns="http://www.w3.org/2000/svg" width="80.031" height="80.031" viewBox="0 0 80.031 80.031">
+  <path id="bound" d="M0,80.031H80.031V0H0Z" transform="translate(80.031 80.031) rotate(180)" fill="none"/>
+  <path id="Combined_Shape" data-name="Combined Shape" d="M4.168,63.358A4.168,4.168,0,0,1,0,59.189V4.168A4.168,4.168,0,0,1,4.168,0H30.845a4.168,4.168,0,0,1,4.168,4.168V59.189a4.168,4.168,0,0,1-4.168,4.168Z" transform="translate(57.522 71.694) rotate(180)" fill="#fff" opacity="0.3"/>
+  <path id="Combined_Shape-2" data-name="Combined Shape" d="M9.17,73.362A9.17,9.17,0,0,1,0,64.192V9.17A9.17,9.17,0,0,1,9.17,0H35.847a9.17,9.17,0,0,1,9.17,9.17V64.192a9.17,9.17,0,0,1-9.17,9.17Z" transform="translate(62.524 76.696) rotate(180)" fill="#b9c2ca"/>
+</svg>
