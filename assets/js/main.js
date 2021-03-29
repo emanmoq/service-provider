@@ -70,7 +70,7 @@ jQuery(function ($) {
   })
   // declare rating 
 $(".navbar-toggler").click(function(){
-  $(".overlay").css("display","block")
+  $(".overlay").toggle()
 });
 $(".close").click(function(){
   $(".overlay").css("display","none");
